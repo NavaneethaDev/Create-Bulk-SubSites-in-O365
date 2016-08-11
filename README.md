@@ -21,8 +21,12 @@ Below are some of the screen shot i would like to share.
 ## Site Hierarchy with multiple levels of sites and sub sites
 ![screenshot1](https://cloud.githubusercontent.com/assets/12201407/17590947/84b968fe-5ff9-11e6-9a01-7b64f60afd6c.png)
 
+=========================================================================================================================
+
 ## Created SharePoint Groups with specific permissions
 ![screenshot2](https://cloud.githubusercontent.com/assets/12201407/17591092/2074fe3e-5ffa-11e6-8a2e-b62a1d061a12.png)
+
+=========================================================================================================================
 
 ## Added multiple users to SharePoint Groups
 ![screenshot3](https://cloud.githubusercontent.com/assets/12201407/17590973/9eda372c-5ff9-11e6-94ed-0e4fe8b61472.png)

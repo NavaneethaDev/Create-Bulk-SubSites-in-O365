@@ -1,4 +1,4 @@
-# Create Bulk Sub Sites in Office 365
+# Create Bulk Site/Sub Sites in Office 365
 This PowerShell Script is used to create bulk subsites in O365 site collection
 
 I am working on a pre-production for my next SharePoint app and I wanted to create more than 300 sub sites including the following features. I thought i will share this code to all for re-using it. Thanks!

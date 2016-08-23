@@ -31,4 +31,7 @@ Below are some of the screen shot i would like to share.
 ## Added multiple users to SharePoint Groups
 ![screenshot3](https://cloud.githubusercontent.com/assets/12201407/17590973/9eda372c-5ff9-11e6-94ed-0e4fe8b61472.png)
 
+=========================================================================================================================
+## Sample CSV file
+![sample csv](https://cloud.githubusercontent.com/assets/12201407/17883130/57ec314c-692e-11e6-903f-595b0b10315f.png)
 
